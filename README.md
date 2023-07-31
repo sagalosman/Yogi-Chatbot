@@ -1,10 +1,6 @@
 # YOGI CHATBOT - NEXTJS
 
-<img 
-    src="public/Chat-Image" 
-    width="75%" 
-    height="100%"
-/>
+![](Chat-Image.png)
 
 This project is powered by [Chat Engine](https://chatengine.io).
 
