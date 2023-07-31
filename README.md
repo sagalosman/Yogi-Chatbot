@@ -1,7 +1,7 @@
-# NextJS Chat Tutorial
+# YOGI CHATBOT - NEXTJS
 
 <img 
-    src="https://raw.githubusercontent.com/alamorre/nextjs-chat-app/main/assets/nextjs-chat-tutorial.png" 
+    src="public/Chat-Image" 
     width="75%" 
     height="100%"
 />
