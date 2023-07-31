@@ -1,6 +1,6 @@
 # YOGI CHATBOT - NEXTJS
 
-![](Chat-Image.png)
+![](chat-image.png)
 
 This project is powered by [Chat Engine](https://chatengine.io).
 
